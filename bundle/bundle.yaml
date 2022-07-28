@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "Temp-crad-dev-controller"
+description: "CloudBees CI configuration bundle for the Temp-crad dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/temp-crad/dev-controller"
+parent: "base"
